@@ -1,5 +1,3 @@
-# Specify Python version
-python_version == "3.9"
 
 joblib==1.3.2
 nltk==3.9.1
@@ -12,3 +10,4 @@ streamlit==1.48.1
 torch==1.10.2
 torchmetrics==1.7.4
 torchvision==0.11.3+cu113
+
